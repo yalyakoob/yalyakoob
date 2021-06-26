@@ -1,6 +1,6 @@
 ## Hi I'm Youssef <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-Hello There! My name is Youssef and I am Data Scientist with a passion for all things data,statistics, and engineering. I Spend most of time coding outstanding projects, cleaning data, and experimenting with different maching learning algorithms.
+Hello There! My name is Youssef and I am a Data Scientist with a passion for all things data,statistics, and engineering. I Spend most of time coding outstanding projects, cleaning data, and experimenting with different maching learning algorithms.
 
 :mailbox: You can find me on:
 
