@@ -26,7 +26,7 @@ I'm Youssef Al-Yakoob a Data Scientist with a passion for all things data,statis
 <br />
 
 #### Email
-  - :email: yalyakoob@gmail.com
+  - :email:  yalyakoob@gmail.com
 
 
 #### Profile Visits 
