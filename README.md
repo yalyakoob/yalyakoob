@@ -9,7 +9,7 @@ Hello There! My name is Youssef and I am a Data Scientist with a passion for all
 <!-- TODO: Add last video link -->
 
   
-- :computer: Most used line of code `df = pd.read_csv('')"`
+- :computer: Most used line of code `df = pd.read_csv('')`
 - 🤔 I’m looking to work alongside my fellow data scientists on         high-impact and challenging projects .
 - 📫 How to reach me: yalyakoob@gmail.com.
 - ⚡ Fun fact: I love to cook
