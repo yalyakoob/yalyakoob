@@ -51,7 +51,9 @@ I'm Youssef Al-Yakoob a Data Scientist with a passion for all things data,statis
 #### Coding Stats
 
 <!--START_SECTION:waka-->
-
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 
