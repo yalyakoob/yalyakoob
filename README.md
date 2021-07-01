@@ -52,8 +52,9 @@ Hello There! My name is Youssef and I am a Data Scientist with a passion for all
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   45 mins         █████████████████▒░░░░░░░   69.70 % 
-YAML       19 mins         ███████▓░░░░░░░░░░░░░░░░░   30.30 % 
+Markdown   45 mins         ███████████████▓░░░░░░░░░   62.95 % 
+YAML       19 mins         ███████░░░░░░░░░░░░░░░░░░   27.37 % 
+Python     6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
 ```
 <!--END_SECTION:waka-->
 
