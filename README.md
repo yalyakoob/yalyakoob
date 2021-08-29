@@ -52,7 +52,7 @@ Hello There! My name is Youssef and I am a Data Scientist with a passion for all
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   11 mins         █████████████████████████   99.42 % 
+Markdown   2 mins          ████████████████████████▒   97.78 % 
 ```
 <!--END_SECTION:waka-->
 
