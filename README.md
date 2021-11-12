@@ -35,7 +35,7 @@ Hello There! My name is Youssef and I am a Data Scientist with a passion for all
 
 #### Github Stats
 
-![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=yalyakoob,prs&show_icons=true&theme=dark&count_private=true)
+![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=yalyakoob&hide=false,prs&show_icons=true&theme=dark&count_private=true)
 
 
 <details>
